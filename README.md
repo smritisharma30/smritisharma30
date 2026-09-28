@@ -1,53 +1,49 @@
-<h2>Hi, I'm Smriti Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="" /></h2>
+# Smriti Sharma
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" alt="" />
+<a href="https://github.com/smritisharma30">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&vCenter=true&width=620&height=40&lines=%3E+Frontend+Engineer;%3E+Building+real-time+%26+streaming+UIs;%3E+TypeScript+%C2%B7+React+%C2%B7+Next.js;%3E+Obsessed+with+performance+%26+accessibility" alt="Frontend Engineer · building real-time & streaming UIs · TypeScript, React, Next.js · performance & accessibility" />
+</a>
 
-<p><em><b>Frontend Engineer</b> who loves building fast, accessible and delightful interfaces,<br />
-especially ones that update in real time.</em></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-smritisharma306-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/smritisharma306/) [![Featured project: Tripwise](https://img.shields.io/badge/Featured-Tripwise-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2dd4bf)](https://github.com/smritisharma30/tripwise)
 
-[![LinkedIn: smritisharma306](https://img.shields.io/badge/-smritisharma306-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smritisharma306/)
-[![GitHub followers](https://img.shields.io/github/followers/smritisharma30?label=follow&style=social)](https://github.com/smritisharma30)
+```console
+$ whoami
+Smriti Sharma · Frontend Engineer · she/her
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45" alt="" /> A little more about me...
+$ cat focus.txt
+real-time & streaming UIs · performance · accessibility · design systems
 
-```typescript
-const smriti = {
-  pronouns: 'she/her',
-  role: 'Frontend Engineer',
-  code: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
-  frameworks: ['React', 'React Native', 'Next.js'],
-  tools: [
-    'Redux', 'Tailwind CSS', 'Storybook',
-    'Jest', 'Vitest', 'Playwright',
-    'Git', 'CI/CD', 'Figma',
-  ],
-  loves: [
-    'real-time & streaming UIs',
-    'performance',
-    'accessibility',
-    'design systems',
-  ],
-  currentlyBuilding: 'Tripwise ✈️ streaming AI trip planner',
-};
+$ ls ~/stack
+typescript   javascript   html        css         react        react-native
+next.js      redux        tailwind    storybook   jest         vitest
+playwright   git          ci-cd       figma
+
+$ ./currently-building
+tripwise: a streaming AI trip-planning assistant
 ```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,tailwind,jest,vitest,git,githubactions,figma" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Jest, Vitest, Git, GitHub Actions, Figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,tailwind,jest,vitest,git,githubactions,figma&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Jest, Vitest, Git, GitHub Actions, Figma" />
 
-### ✈️ Featured project: [Tripwise](https://github.com/smritisharma30/tripwise)
+## `~/projects/tripwise`
 
-**A streaming AI trip-planning assistant.** Replies appear word by word, tool calls turn into
-live boarding passes, and every network failure is handled gracefully.
+**[Tripwise](https://github.com/smritisharma30/tripwise): a streaming AI trip-planning assistant.**
+Replies appear word by word, tool calls turn into live boarding passes, and every network failure
+is handled gracefully.
 
 <a href="https://github.com/smritisharma30/tripwise">
   <img src="https://raw.githubusercontent.com/smritisharma30/tripwise/main/docs/media/demo.gif" alt="Tripwise demo: a reply streams in and flight results appear as boarding passes" width="720" />
 </a>
 
-- A Server-Sent Events parser written from scratch and tested against tricky network edge cases
-- Failure injection (dropped connections, malformed events, slow starts) with graceful recovery
-- Next.js 16 · React 19 · strict TypeScript · pnpm + Turborepo monorepo · Vitest · GitHub Actions
+```diff
++ A Server-Sent Events parser written from scratch, tested against tricky network edge cases
++ Failure injection (dropped connections, malformed events, slow starts) with graceful recovery
++ Next.js 16 · React 19 · strict TypeScript · pnpm + Turborepo · Vitest · GitHub Actions
+```
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="" /> <em><b>I love connecting with people</b>, so if you want to say <b>hi</b>, I'd be happy to meet you!</em> :)
+```console
+$ echo "Always happy to talk frontend, streaming UIs, or interesting problems."
+```
+
+<sub>→ Reach me on [LinkedIn](https://www.linkedin.com/in/smritisharma306/).</sub>
